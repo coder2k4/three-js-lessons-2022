@@ -1,0 +1,3 @@
+# Project exclude paths
+/004 Webpack/node_modules/
+/005 Transforms objects/node_modules/
