@@ -1,4 +1,5 @@
 # Project exclude paths
+.idea
 /004 Webpack/node_modules/
 /005 Transforms objects/node_modules/
 /006 Animation/node_modules/
