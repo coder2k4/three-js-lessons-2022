@@ -1,3 +1,13 @@
 # Project exclude paths
 /004 Webpack/node_modules/
 /005 Transforms objects/node_modules/
+/006 Animation/node_modules/
+/007 Camera/node_modules/
+/008 Fullscreen and resizing/node_modules/
+/009 Geometries/node_modules/
+/010 Debug UI/node_modules/
+/011 Textures/node_modules/
+/012 Materials/node_modules/
+/013 3D Text/node_modules/
+/014 Go live/node_modules/
+/015 Lights/node_modules/
